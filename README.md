@@ -18,7 +18,7 @@ From the Zenodo record, I downloaded `seqFISH+_NIH3T3_point_locations.zip`, whic
 run1.csv.gz and run2.csv.gz contain mRNA locations, from two runs of the seqFISH+ protocol with cells from the NIH/3T3 mouse fibroblast cell line, with the following columns:
 
 * `fov` Field of view of the microscope. There are 7 FOVs in run1 and 10 in run2.
-* `cell` Cell within FOV, manually curated for your convenience!
+* `cell` Cell within FOV, manually curated by Long Cai's lab.
 * `gene_no` Gene number, 1 to 10,000.
 * `gene` Corresponding gene symbol.
 * `x` x coordinate within FOV.
